@@ -1,0 +1,6 @@
+E:\Project\Grabber_Telegram_Session\Grabber_Telegram_Session\obj\Debug\Grabber_Telegram_Session.csprojAssemblyReference.cache
+E:\Project\Grabber_Telegram_Session\Grabber_Telegram_Session\obj\Debug\Grabber_Telegram_Session.csproj.CoreCompileInputs.cache
+E:\Project\Grabber_Telegram_Session\Grabber_Telegram_Session\bin\Debug\Grabber_Telegram_Session.exe
+E:\Project\Grabber_Telegram_Session\Grabber_Telegram_Session\bin\Debug\Grabber_Telegram_Session.pdb
+E:\Project\Grabber_Telegram_Session\Grabber_Telegram_Session\obj\Debug\Grabber_Telegram_Session.exe
+E:\Project\Grabber_Telegram_Session\Grabber_Telegram_Session\obj\Debug\Grabber_Telegram_Session.pdb
